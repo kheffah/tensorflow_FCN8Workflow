@@ -1,3 +1,7 @@
 [submodule "tensorflow_fcn"]
 	path = tensorflow_fcn
 	url = https://github.com/kheffah/tensorflow-fcn
+[submodule "tensorflow-fcn"]
+	path = tensorflow-fcn
+	url = https://github.com/kheffah/tensorflow-fcn
+	branch = master

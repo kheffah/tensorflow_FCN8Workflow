@@ -1,5 +1,5 @@
 *.tif
-#*.png
+*.png
 *.svg
 *.mat
 *.npy
