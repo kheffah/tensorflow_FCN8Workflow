@@ -1,4 +1,4 @@
-# Fully-implemented workflow for tensorflow_FCN8Workflow 
+# Fully-implemented workflow for FCN8 (based on VGG-16)
 
 This repository handles the full workflow for applying FCN-8 for fine-scale semantic segmentation of images in a directory.
 
