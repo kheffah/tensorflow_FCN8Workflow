@@ -1,0 +1,7 @@
+*.tif
+*.png
+*.svg
+*.mat
+*.npy
+*.pyc
+__pycache__/*

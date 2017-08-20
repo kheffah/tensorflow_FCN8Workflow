@@ -1,0 +1,6 @@
+wget http://www2.warwick.ac.uk/fac/sci/dcs/research/tia/glascontest/download/warwick_qu_dataset_released_2016_07_08.zip
+
+unzip warwick_qu_dataset_released_2016_07_08.zip -x *test* *Grade* *train_[2-9]* -d dataset
+
+mv dataset/Warwick\ QU\ Dataset\ \(Released\ 2016_07_08\)/*anno* ./GTinfo/
+mv dataset/Warwick\ QU\ Dataset\ \(Released\ 2016_07_08\)/* ./
