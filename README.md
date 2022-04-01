@@ -1,6 +1,14 @@
 # Fully-implemented workflow for FCN8 (based on VGG-16)
 
-This repository handles the full workflow for applying FCN-8 for fine-scale semantic segmentation of images in a directory.
+This repository handles the full workflow for applying FCN-8 for fine-scale semantic segmentation of images in a directory. 
+
+- **Publication**: A past version of this repository was used to train the tensrflow model associated with the following paper: 
+
+  ***_[Amgad M, Elfandy H, ..., Gutman DA, Cooper LAD. Structured crowdsourcing enables convolutional segmentation of histology images. Bioinformatics. 2019. doi: 10.1093/bioinformatics/btz083](https://academic.oup.com/bioinformatics/article/35/18/3461/5307750)_***
+
+- **Dataset**: The dataset associated, which was used for model training and validation can be downloaded using the instructions provided at the [BCSS repository](https://github.com/PathologyDataScience/BCSS).
+
+- **Trained model**: The trained tensorflow model weights can be downloaded at [this link](https://drive.google.com/drive/folders/1mSd3ZG1lnno_RuTHQXSU0GRAhtR21yIy?usp=sharing).
 
 ## 0: Clone repository
 
